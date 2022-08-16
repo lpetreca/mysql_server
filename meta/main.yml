@@ -16,4 +16,4 @@ galaxy_info:
   galaxy_tags:
     - mysql
 dependencies:
-  - conf_base
+  - lpetreca.conf_base
